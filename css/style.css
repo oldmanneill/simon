@@ -138,9 +138,11 @@ span{
   color: black;
 }
 #neill{
+  max-width: 500px;
   position:absolute;
-  left: 64px;
+  left: 10px;
   top: 530px;
   font-size:20px;
-  font-family: 'Anton', sans-serif;
+  font-family: 'PT Mono', monospace;
+
 }

@@ -20,7 +20,7 @@ var counter=1;
 var strictModeLight =0;
 var timeOutFunction;
 var horn =0;
-var sounds = [new Audio('https://s3.amazonaws.com/freecodecamp/simonSound1.mp3'), new Audio('https://s3.amazonaws.com/freecodecamp/simonSound2.mp3'), new Audio('https://s3.amazonaws.com/freecodecamp/simonSound3.mp3'), new Audio('https://s3.amazonaws.com/freecodecamp/simonSound4.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2017/10/Sad_Trombone.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2017/10/winning-trumpet.mp3')];
+var sounds = [new Audio('http://oldmanneill.com/wp-content/uploads/2018/04/red.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2018/04/yellow.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2018/04/green.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2018/04/blue.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2017/10/Sad_Trombone.mp3'), new Audio('http://oldmanneill.com/wp-content/uploads/2017/10/winning-trumpet.mp3')];
 c =document.getElementById("myCanvas");
 var ctx=c.getContext("2d");
 ctx.beginPath();
